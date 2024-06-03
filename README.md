@@ -11,7 +11,7 @@ Desain UI Mobile App Cianjur Satu Laporan dibuat menggunakan :
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-Berikut adalah link access file [UI Mobile App UNPI](https://www.figma.com/design/IW5BzVk7beYelxupq3s7Qg/Project_UAS?node-id=0-1&t=XRvRBAuxxhzc4VPZ-1)
+Berikut adalah link access file [UI Mobile App Cianjur Satu Laporan](https://www.figma.com/design/IW5BzVk7beYelxupq3s7Qg/Project_UAS?node-id=0-1&t=XRvRBAuxxhzc4VPZ-1)
 
 > Note: Redesign UI Website to Mobile App merupakan tugas UAS mata kuliah Pemograman Mobile II
 
